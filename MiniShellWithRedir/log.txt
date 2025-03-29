@@ -1,0 +1,12 @@
+log.txt
+M
+Makefile
+MiniShell
+MiniShell.c
+tags
+log.txt
+M
+Makefile
+MiniShell
+MiniShell.c
+tags
